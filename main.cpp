@@ -131,7 +131,7 @@ int main() {
 	cout << "Point 2's y value is: " << p2[1] << endl;
 
 	//take in a point 
-	Point p3(0,0);
+	Point p3(0, 0);
 	cout << "Enter a point (in form: x y): ";
 	cin >> p3;
 	cout << "Point 3: " << p3 << endl;
